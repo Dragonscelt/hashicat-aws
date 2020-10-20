@@ -4,5 +4,5 @@ module "s3-bucket" {
   # insert required variables here
 
   # insert required variables here
-  bucket_prefix = "YupDiditWrong"
+  bucket_prefix = "CarlWagner"
 }
